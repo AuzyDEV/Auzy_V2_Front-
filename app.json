@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "skeleton",
-    "slug": "skeleton",
+    "name": "Auzy",
+    "slug": "auzy",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/19912.png",
+      "image": "./assets/68758.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -22,7 +22,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.redeerx.skeleton"
+      "package": "com.bigweb.auzy"
     },
     "web": {
       "favicon": "./assets/favicon.png"
